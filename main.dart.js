@@ -41510,7 +41510,7 @@ case"SELL":case"REJECTED":return B.ao
 default:return B.R}}}
 A.aqN.prototype={
 $3(a,b,c){var s,r,q,p=null,o=b===B.bJ,n=o?B.bD:B.dw,m=o?B.bn:B.k,l=o?B.b3:B.n9,k=o?B.bm:B.cp,j=o?B.bN:B.dx,i=A.bM(p,p,B.p,p,B.mi,p,8,p,p,p,p,p,8),h=A.a0(a).ok.w,g=t.p
-h=A.cs(A.c([i,B.ly,A.aX("AEGIS TERMINAL",p,p,p,h==null?p:h.akl(k,B.w,1.2),p,p)],g),B.D,B.z,B.t,0)
+h=A.cs(A.c([i,B.ly,A.aX("KRYPTON ENGINE",p,p,p,h==null?p:h.akl(k,B.w,1.2),p,p)],g),B.D,B.z,B.t,0)
 i=o?B.FU:B.FJ
 i=A.tc(i,o?B.cT:B.R,p,20)
 s=o?"Modo Claro":"Modo Escuro"
@@ -41845,7 +41845,7 @@ return s},
 $S:451}
 A.a_4.prototype={
 $3(a,b,c){var s=null
-return new A.oY(B.zs,"Aegis Terminal",A.qf(B.Av,B.ah,B.k,s,B.dw,s),A.qf(B.Au,B.an,B.bn,s,B.bD,s),b,!1,s)},
+return new A.oY(B.zs,"KRYPTON ENGINE",A.qf(B.Av,B.ah,B.k,s,B.dw,s),A.qf(B.Au,B.an,B.bn,s,B.bD,s),b,!1,s)},
 $S:468}
 A.JB.prototype={}
 A.Ob.prototype={
