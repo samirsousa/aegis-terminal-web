@@ -48,14 +48,16 @@ O núcleo de tomada de decisão é composto por **4 Agentes Especializados** que
 
 ## 🚀 Como Executar o Projeto Localmente
 
+## 🚀 Como Executar o Projeto Localmente
+
 ### Pré-requisitos
 * Flutter SDK instalado (versão `>=3.22.0`)
 * Git instalado
-* Navegador Google Chrome (para execução Flutter Web)
+* Navegador Google Chrome ou VS Code configurado
 
 ### Passo a Passo
 
-1. **Clonar o repositório:**
+1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/krypton-ai.git](https://github.com/seu-usuario/krypton-ai.git)
    cd krypton-ai
