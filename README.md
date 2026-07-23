@@ -55,7 +55,7 @@ O núcleo de tomada de decisão é composto por **4 Agentes Especializados** que
 
 ### Passo a Passo
 
-1. **Clone o repositório:**
+1. **Clonar o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/krypton-ai.git](https://github.com/seu-usuario/krypton-ai.git)
    cd krypton-ai
