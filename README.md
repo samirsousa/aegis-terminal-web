@@ -45,3 +45,29 @@ O núcleo de tomada de decisão é composto por **4 Agentes Especializados** que
 * **Design & Temas:** CustomPainter para logos geométricas, Google Fonts (`JetBrains Mono`), suporte a temas dinâmicos via `ValueNotifier`.
 
 ---
+
+## 🚀 Como Executar o Projeto Localmente
+
+### Pré-requisitos
+* Flutter SDK instalado (versão `>=3.22.0`)
+* Git instalado
+* Navegador Google Chrome (para execução Flutter Web)
+
+### Passo a Passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/krypton-ai.git](https://github.com/seu-usuario/krypton-ai.git)
+   cd krypton-ai
+
+2. Instale as dependências do projeto:
+
+flutter pub get
+
+3. Execute a aplicação no navegador (Flutter Web):
+
+flutter run -d chrome
+
+💡 Dica de Desenvolvimento: Para evitar re-renderizações pesadas do CanvasKit durante Hot Restarts no Chrome, execute utilizando o modo HTML:
+
+flutter run -d chrome --web-renderer html
