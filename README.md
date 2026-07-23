@@ -48,8 +48,6 @@ O núcleo de tomada de decisão é composto por **4 Agentes Especializados** que
 
 ## 🚀 Como Executar o Projeto Localmente
 
-## 🚀 Como Executar o Projeto Localmente
-
 ### Pré-requisitos
 * Flutter SDK instalado (versão `>=3.22.0`)
 * Git instalado
